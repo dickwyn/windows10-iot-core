@@ -11,6 +11,6 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
             <TextBox x:Name="HelloMessage" Text="Hello World" Margin="10" IsReadOnly="True"/>
             <Button x:Name="ClickMe" Content="Click Me" Margin="10" HorizontalAlignment="Center"/>
-        </StackPanel>
+        </StackPanel> 
     </Grid>
 </Page>
